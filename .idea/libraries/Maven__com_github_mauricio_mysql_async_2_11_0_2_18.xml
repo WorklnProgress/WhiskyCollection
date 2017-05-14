@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.mauricio:mysql-async_2.11:0.2.18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/mauricio/mysql-async_2.11/0.2.18/mysql-async_2.11-0.2.18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/mauricio/mysql-async_2.11/0.2.18/mysql-async_2.11-0.2.18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/mauricio/mysql-async_2.11/0.2.18/mysql-async_2.11-0.2.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
